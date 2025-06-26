@@ -1,6 +1,6 @@
 ## Ola, Me chamo Rafael 👋
 
-🧙‍♂️Sou um estudante de Sistemas de Informação<br>
+🧙‍♂️Sou um estudante de Desenvolvimento de Software<br>
 🖥️Gosto de criar sites<br>
 🥊E estou apredendo JavaScripit<br>
 
